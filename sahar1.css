@@ -8,13 +8,13 @@
 label.label.tc.border.btn.fl {
     border-radius: 25px;
     background: linear-gradient( 
--45deg , #b3b2b3, #ffffff, #635e63, #b3b2b3);
+-45deg , #b3b2b3, #ffffff, #858185, #b3b2b3);
 }
 
 label.label.tc.border.btn.label-info.fl {
     border-radius: 25px;
 background: linear-gradient( 
--45deg , #b3b2b3, #ffffff, #635e63, #b3b2b3);
+-45deg , #b3b2b3, #ffffff, #f3f3f3, #b3b2b3);
 }
 
 
@@ -47,7 +47,10 @@ background: linear-gradient(
 .label-primary,.btn-primary {
     background-color: #000000!important;
 }
-
+label.ae.fa.label {
+    border: 1px solid #fff!important;
+    border-radius: 50px 50px 50px 50px;
+}
 .ae.label.label-primary.fa.fa-gear {
     color: #ffd900
 }
