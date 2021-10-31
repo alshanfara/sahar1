@@ -17,7 +17,7 @@
 
 .label-primary, .btn-primary {
     background-color: #313131!important;
-    border: 1px solid transparent;
+    border-color: #ffffff!important;
 }
 
 
@@ -32,8 +32,6 @@
 
 .fr.borderg, .fr.borderg a {
     border-radius: 15px!important;
-    background-color: #1c91a7!important;
-    background-image: linear-gradient(90deg,#a2a0a0 0,#757474 10%,#313131 51%,#757474 89%,#a2a0a0 100%);
     border: black solid 0px;
     color: #fff;
 }
