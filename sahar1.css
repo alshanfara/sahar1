@@ -1,5 +1,6 @@
 .label-danger {
     background-image: linear-gradient( 90deg ,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);
+	color: #fff !important;
 }
 
 .fa-cog:before,.fa-commenting-o:before,.fa-gear:before,.fa-group:before,.fa-users:before {
