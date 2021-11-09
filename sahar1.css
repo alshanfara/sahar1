@@ -16,12 +16,15 @@
 
 
 .label-primary, .btn-primary {
-    background-color: #313131!important;
+            background-image: linear-gradient( 90deg ,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);
+
     border-color: #ffffff!important;
 }
 
 
 .ae.label.label-primary.fa.fa-gear {
+            background-image: linear-gradient( 90deg ,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);
+
     color: #ffd900
 }
 
