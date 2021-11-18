@@ -1,3 +1,10 @@
+.pmsgc {
+    outline: 1px  dashed #d9534f;
+    outline-offset: -5px;
+    background-size: auto;
+    background-position: 100% 0%;
+    background-color: #6694afab !important;
+}
 .label:empty{display:none!important}
 .label-danger{background-image:linear-gradient( 90deg,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);color:#fff!important}
 .fa-cog:before,.fa-commenting-o:before,.fa-gear:before,.fa-group:before,.fa-users:before{content:""}
