@@ -807,8 +807,8 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
 }
 
 #laith.label.label-primary {
-    margin-top: -95px!important;
-    width: 104px!important;
+    margin-top: -80px!important;
+    width: 84px!important;
     height: 18px!important;
     margin: 0;
     border: none!important;
@@ -817,7 +817,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
     border-radius: 0 0 0 1px!important;
     border-bottom: 1px solid #f1c924!important;
     border-radius: 20px!important;
-    background-image: linear-gradient(90deg,#b70000 0,#c93e3e 10%,#b70000 51%,#c93e3e 89%,#b70101 100%)!important;
+    background-image: linear-gradient( 90deg,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);
 }
 
 .nav>li>a:focus,.nav>li>a:hover {
